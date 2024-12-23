@@ -1,0 +1,21 @@
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.exe.config
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\Tekla.Structures.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.csproj.CopyComplete
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.exe.config
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\TeklaApi_Work_with_filter.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi_Work_with_filter.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\TeklaApi_Work_with_filter\TeklaApi_Work_with_filter\obj\Debug\TeklaApi.1C4B42FC.Up2Date

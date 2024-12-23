@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaApi_Work_with_filter", "TeklaApi_Work_with_filter\TeklaApi_Work_with_filter.csproj", "{DF77CFB1-E758-478E-BA3B-C48B4E5E3448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF77CFB1-E758-478E-BA3B-C48B4E5E3448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF77CFB1-E758-478E-BA3B-C48B4E5E3448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF77CFB1-E758-478E-BA3B-C48B4E5E3448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF77CFB1-E758-478E-BA3B-C48B4E5E3448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF201C44-4545-4CE6-9833-1FC4BABABD65}
+	EndGlobalSection
+EndGlobal
