@@ -22,6 +22,7 @@ namespace TeklaApi_Work_with_filter
 
 
 
+
                 //ReadUserProperty();
                 //SetUserProperty();
                 //SelectPartBySaveFilterInTekla();
@@ -302,9 +303,10 @@ namespace TeklaApi_Work_with_filter
         }
 
 
-
+        
         private static string ConvertToCP1251(string text)
         {
+
             Encoding utf8 = Encoding.GetEncoding("UTF-8");
             Encoding win1251 = Encoding.GetEncoding("Windows-1251");
 
