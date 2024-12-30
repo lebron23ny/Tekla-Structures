@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lebro\\source\\repos\\Tekla-Structures\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lebro\\source\\repos\\Tekla-Structures\\TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 241,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lebro\\source\\repos\\Tekla-Structures\\TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs",
+              "RelativeDocumentMoniker": "TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs",
+              "ToolTip": "C:\\Users\\lebro\\source\\repos\\Tekla-Structures\\TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs",
+              "RelativeToolTip": "TeklaApi_Work_with_filter\\TeklaApi_Work_with_filter\\Program.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAADQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:17:11.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

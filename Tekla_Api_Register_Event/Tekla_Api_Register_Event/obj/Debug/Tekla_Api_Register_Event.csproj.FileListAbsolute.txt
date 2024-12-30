@@ -1,0 +1,34 @@
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.exe.config
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.Form1.resources
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.Properties.Resources.resources
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.GenerateResource.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.CopyComplete
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.exe.config
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Tekla_Api_Register_Event.pdb
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.AssemblyReference.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.Form1.resources
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.Properties.Resources.resources
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.GenerateResource.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.CoreCompileInputs.cache
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.csproj.CopyComplete
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.exe
+C:\Users\lebro\source\repos\МОИ_ПРОЕКТЫ\БЛИЖАЙШИЕ РАЗРАБОТКИ\Tekla_Api_Register_Event\Tekla_Api_Register_Event\obj\Debug\Tekla_Api_Register_Event.pdb
